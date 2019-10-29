@@ -1,0 +1,13 @@
+name: Shiny_Workshop_Example
+title: Shiny_Workshop_Example
+username:
+account: melanatech
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1396729
+bundleId: 2549041
+url: https://melanatech.shinyapps.io/Shiny_Workshop_Example/
+when: 1572376926.65355
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_01_sol.R|app_01.R|app_02_sol.R|app_02.R|app_03_sol.R|app_03.R|app_04_sol.R|app_04.R|app_05_sol.R|app_05.R|app_06_sol.R|app_06.R|app_07_sol.R|app_07.R|app_08_sol.R|app_08.R|app_09_sol.R|app_09.R|app_example.R|app_full_version.R|README.md|Shiny Workshop - ODSC 2019.pdf|.github/FUNDING.yml|data/data_prep.R|data/nba2018_raw.csv
